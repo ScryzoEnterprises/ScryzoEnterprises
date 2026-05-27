@@ -12,7 +12,18 @@
 
 <table>
 <tr>
-<td valign="top" width="75%">
+<td valign="top" align="center" width="25%">
+
+<!-- ДЕВОЧКА С КОДОМ (СЛЕВА ВВЕРХУ) -->
+<img src="avatar.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 30px;" alt="Profile Space 1"/>
+
+<br/><br/>
+
+<!-- ЛИЛИИ (СЛЕВА В СЕРЕДИНЕ) -->
+<img src="avatar2.png.jpg" width="150" style="border-radius: 8px;" alt="Profile Space 2"/>
+
+</td>
+<td valign="top" width="75%" style="padding-left: 15px;">
 
 Welcome to my digital space! I am a passionate developer focused on building clean, efficient, and user-friendly software while continuously exploring new horizons.
 
@@ -35,15 +46,6 @@ When I am not writing code, you can usually find me:
 ## 📬 Connect With Me
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
-
-</td>
-<td valign="top" align="center" width="25%">
-
-<img src="avatar.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 20px;" alt="Profile Space 1"/>
-
-<br/><br/>
-
-<img src="avatar2.png.jpg" width="150" style="border-radius: 8px;" alt="Profile Space 2"/>
 
 </td>
 </tr>
