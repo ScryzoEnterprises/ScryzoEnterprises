@@ -3,22 +3,15 @@
 # Hi there! I'm Maxim Ralko 👋
 ### A.K.A. SCRYZ | Creator of ScryzoEnterprises
 
-<!-- БАННЕР -->
+<!-- ВЕРХНИЙ БАННЕР -->
 <img src="banner.png.jpg" width="100%" alt="Banner"/>
 
 ---
 
 </div>
 
-<table>
-<tr>
-<!-- КАРТИНКА СЛЕВА -->
-<td valign="top" align="center" width="20%">
-  <img src="avatar.png.jpg" width="140" style="border-radius: 8px;" alt="Profile Space 1"/>
-</td>
-
-<!-- ТЕКСТ ПО ЦЕНТРУ -->
-<td valign="top" width="60%" style="padding: 0 15px;">
+<img src="avatar.png.jpg" width="150" align="right" style="margin-left: 15px; border-radius: 8px;" alt="Profile Space 1"/>
+<img src="avatar2.png.jpg" width="150" align="left" style="margin-right: 15px; border-radius: 8px;" alt="Profile Space 2"/>
 
 Welcome to my digital space! I am a passionate developer focused on building clean, efficient, and user-friendly software while continuously exploring new horizons.
 
@@ -42,14 +35,7 @@ When I am not writing code, you can usually find me:
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
 
-</td>
-
-<!-- КАРТИНКА СПРАВА -->
-<td valign="top" align="center" width="20%">
-  <img src="avatar2.png.jpg" width="140" style="border-radius: 8px;" alt="Profile Space 2"/>
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
