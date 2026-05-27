@@ -13,14 +13,20 @@
 Welcome to my digital space! I am a passionate developer focused on building clean, efficient, and user-friendly software while continuously exploring new horizons.
 
 ## 🚀 About Me
-<img src="avatar.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 15px;" alt="Profile Space 1"/>
+<!-- ДЕВОЧКА СЛЕВА ВВЕРХУ -->
+<img src="avatar.png.jpg" width="140" align="left" style="margin-right: 15px; border-radius: 8px; margin-bottom: 10px;" alt="Profile Space 1"/>
 
 - 👨‍💻 **Real Name:** Maxim Ralko
 - 🌍 **Based in:** Russia
 - 💼 **Status:** Building portfolio projects & open to web development opportunities
 - 🎯 **Core Goal:** Finding my way in the tech industry and creating impactful solutions
 
+<br clear="left"/>
+
 ## 🎨 Beyond Coding (My Universe)
+<!-- ЛИЛИИ СПРАВА В СЕРЕДИНЕ -->
+<img src="avatar2.png.jpg" width="140" align="right" style="margin-left: 15px; border-radius: 8px; margin-bottom: 10px;" alt="Profile Space 2"/>
+
 When I am not writing code, you can usually find me:
 - 🎮 **Gaming:** Exploring virtual worlds (helps me understand UI/UX and game design logic).
 - 📌 **Pinterest Diving:** Catching visual trends, gathering inspiration, and developing my design taste.
@@ -31,10 +37,10 @@ When I am not writing code, you can usually find me:
 - **Tools:** Git, GitHub, VS Code
 
 ## 📬 Connect With Me
-<img src="avatar2.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 15px;" alt="Profile Space 2"/>
-
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
+
+<br clear="right"/>
 
 ---
 
