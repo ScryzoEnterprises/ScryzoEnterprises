@@ -3,18 +3,16 @@
 # Hi there! I'm Maxim Ralko 👋
 ### A.K.A. SCRYZ | Creator of ScryzoEnterprises
 
-<!-- БАННЕР НА ВСЮ ШИРИНУ -->
-<img src="banner.png.jpg" width="100%" style="width: 100%; max-width: 100%; display: block; margin-bottom: 20px;" alt="Banner"/>
+<!-- БАННЕР -->
+<img src="banner.png.jpg" width="100%" alt="Banner"/>
 
 ---
 
-<div align="left">
-
-<!-- ОБЕ КАРТИНКИ СПРАВА ДРУГ ПОД ДРУГОМ -->
-<div align="right" style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 15px;">
-  <img src="avatar.png.jpg" width="140" style="border-radius: 4px;" alt="Profile Space 1"/>
-  <img src="avatar2.png.jpg" width="140" style="border-radius: 4px;" alt="Profile Space 2"/>
 </div>
+
+<table>
+<tr>
+<td valign="top" width="75%">
 
 Welcome to my digital space! I am a passionate developer focused on building clean, efficient, and user-friendly software while continuously exploring new horizons.
 
@@ -38,11 +36,22 @@ When I am not writing code, you can usually find me:
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
 
-</div>
+</td>
+<td valign="top" align="center" width="25%">
 
-<br clear="right"/>
+<img src="avatar.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 20px;" alt="Profile Space 1"/>
+
+<br/><br/>
+
+<img src="avatar2.png.jpg" width="150" style="border-radius: 8px;" alt="Profile Space 2"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Activity
 <img src="https://vercel.app" alt="Stats" />
