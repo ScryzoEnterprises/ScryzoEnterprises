@@ -4,7 +4,7 @@
 ### A.K.A. SCRYZ | Creator of ScryzoEnterprises
 
 <!-- ВЕРХНИЙ БАННЕР -->
-<img src="banner.png" width="100%" alt="Banner"/>
+<img src="banner.jpg" width="100%" alt="Banner"/>
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my digital space! I am a passionate developer focused on building cle
 
 ## 🚀 About Me
 <!-- КАРТИНКА ВВЕРХУ СПРАВА (Девочка с кодом) -->
-<img src="avatar.png" width="160" align="right" style="margin-left: 15px; border-radius: 4px;" alt="Profile Space 1"/>
+<img src="avatar.jpg" width="160" align="right" style="margin-left: 15px; border-radius: 4px;" alt="Profile Space 1"/>
 
 - 👨‍💻 **Real Name:** Maxim Ralko
 - 🌍 **Based in:** Russia
@@ -33,7 +33,7 @@ When I am not writing code, you can usually find me:
 
 ## 📬 Connect With Me
 <!-- КАРТИНКА ВНИЗУ СПРАВА (Синие лилии) -->
-<img src="avatar2.png" width="160" align="right" style="margin-left: 15px; border-radius: 4px;" alt="Profile Space 2"/>
+<img src="avatar2.jpg" width="160" align="right" style="margin-left: 15px; border-radius: 4px;" alt="Profile Space 2"/>
 
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
