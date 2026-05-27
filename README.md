@@ -10,12 +10,11 @@
 
 </div>
 
-<img src="avatar.png.jpg" width="150" align="right" style="margin-left: 15px; border-radius: 8px;" alt="Profile Space 1"/>
-<img src="avatar2.png.jpg" width="150" align="left" style="margin-right: 15px; border-radius: 8px;" alt="Profile Space 2"/>
-
 Welcome to my digital space! I am a passionate developer focused on building clean, efficient, and user-friendly software while continuously exploring new horizons.
 
 ## 🚀 About Me
+<img src="avatar.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 15px;" alt="Profile Space 1"/>
+
 - 👨‍💻 **Real Name:** Maxim Ralko
 - 🌍 **Based in:** Russia
 - 💼 **Status:** Building portfolio projects & open to web development opportunities
@@ -32,10 +31,10 @@ When I am not writing code, you can usually find me:
 - **Tools:** Git, GitHub, VS Code
 
 ## 📬 Connect With Me
+<img src="avatar2.png.jpg" width="150" style="border-radius: 8px; margin-bottom: 15px;" alt="Profile Space 2"/>
+
 - 📧 **Email:** [maximralkolovegames@gmail.com](mailto:maximralkolovegames@gmail.com)
 - ✈️ **Telegram:** [@maximralko](https://t.me)
-
-<br clear="all"/>
 
 ---
 
